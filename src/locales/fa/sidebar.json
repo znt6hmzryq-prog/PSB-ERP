@@ -1,0 +1,20 @@
+{
+  "dashboard": "داشبورد",
+  "tickets": "بلیط‌ها",
+  "invoice": "صورت‌حساب‌ها",
+  "customers": "مشتریان",
+  "payments": "پرداخت‌ها",
+  "expenses": "هزینه‌ها",
+  "suppliers": "تأمین‌کنندگان",
+  "reports": "گزارشات",
+  "settings": "تنظیمات",
+  "admin": "مدیریت سیستم",
+  "users": "کاربران",
+  "branches": "شعبه‌ها",
+  "agencyRegistration": "ثبت نام آژانس",
+  "logout": "خروج",
+  "agencyRequests": "درخواست‌های آژانس",
+  "submissions": "ثبت نام‌ها",
+  "agents": "نمایندگان",
+  "help": "راهنما"
+}

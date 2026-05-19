@@ -1,0 +1,21 @@
+{
+  "title": "داشبورد",
+  "welcome": "خوش آمدید",
+  "totalTickets": "مجموع بلیط‌ها",
+  "todayRevenue": "درآمد امروز",
+  "monthRevenue": "درآمد ماهانه",
+  "newCustomers": "مشتریان جدید",
+  "comparedToLast": "نسبت به ماه قبل",
+  "recentActivity": "فعالیت‌های اخیر",
+  "viewAll": "مشاهده همه",
+  "quickActions": "عملیات سریع",
+  "createTicket": "صدور بلیط",
+  "createInvoice": "صورت‌حساب جدید",
+  "addCustomer": "مشتری جدید",
+  "addExpense": "ثبت هزینه",
+  "performanceChart": "نمودار عملکرد",
+  "ticketsIssued": "بلیط‌های صادره",
+  "sales": "فروش",
+  "pendingApprovals": "منتظر تأیید",
+  "overdueInvoices": "صورت‌حساب‌های عقب‌افتاده"
+}

@@ -1,0 +1,20 @@
+{
+  "dashboard": "Dashboard",
+  "tickets": "Tickets",
+  "invoice": "Invoices",
+  "customers": "Customers",
+  "payments": "Payments",
+  "expenses": "Expenses",
+  "suppliers": "Suppliers",
+  "reports": "Reports",
+  "settings": "Settings",
+  "admin": "System Administration",
+  "users": "Users",
+  "branches": "Branches",
+  "agencyRegistration": "Agency Registration",
+  "logout": "Logout",
+  "agencyRequests": "Agency Requests",
+  "submissions": "Submissions",
+  "agents": "Agents",
+  "help": "Help"
+}

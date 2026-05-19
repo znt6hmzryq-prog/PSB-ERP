@@ -1,0 +1,23 @@
+{
+  "title": "Customers",
+  "newCustomer": "New Customer",
+  "customerName": "Customer Name",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Address",
+  "searchPlaceholder": "Search by name or phone...",
+  "noCustomers": "No customers found",
+  "customerDetails": "Customer Details",
+  "totalTickets": "Total Tickets",
+  "totalSpent": "Total Spent",
+  "lastPurchase": "Last Purchase",
+  "editCustomer": "Edit Customer",
+  "deleteCustomer": "Delete Customer",
+  "confirmDelete": "Are you sure you want to delete this customer?",
+  "deleteSuccess": "Customer deleted successfully",
+  "saveSuccess": "Customer saved successfully",
+  "namePlaceholder": "Enter customer name",
+  "phonePlaceholder": "Enter phone number",
+  "emailPlaceholder": "Enter email address",
+  "addressPlaceholder": "Enter address"
+}

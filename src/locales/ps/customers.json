@@ -1,0 +1,23 @@
+{
+  "title": "پیرودونکي",
+  "newCustomer": "نوی پیرودونکی",
+  "customerName": "د پیرودونکي نوم",
+  "phone": "تلفون",
+  "email": "بریښنالیک",
+  "address": "پته",
+  "searchPlaceholder": "د نوم یا تلفون له مخې لټون...",
+  "noCustomers": "هیڅ پیرودونکی ونه موندل شو",
+  "customerDetails": "د پیرودونکي جزئیات",
+  "totalTickets": "ټول ټکټونه",
+  "totalSpent": "ټول لګښت",
+  "lastPurchase": "وروستی خرید",
+  "editCustomer": "پیرودونکی سمول",
+  "deleteCustomer": "پیرودونکی ړنګول",
+  "confirmDelete": "ایا تاسې د دې پیرودونکي د ړنګولو څخه ډاډه یاست؟",
+  "deleteSuccess": "پیرودونکی بریالۍ ړنګ شو",
+  "saveSuccess": "پیرودونکی بریالۍ ثبت شو",
+  "namePlaceholder": "د پیرودونکي نوم دننه کړئ",
+  "phonePlaceholder": "د تلفون شمیره دننه کړئ",
+  "emailPlaceholder": "د بریښنالیک پته دننه کړئ",
+  "addressPlaceholder": "پته دننه کړئ"
+}

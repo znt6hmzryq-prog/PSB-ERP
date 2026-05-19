@@ -1,0 +1,21 @@
+{
+  "title": "ډشبورډ",
+  "welcome": "ښه راغلاست",
+  "totalTickets": "ټول ټکټونه",
+  "todayRevenue": "نن ورځې عاید",
+  "monthRevenue": "د میاشتې عاید",
+  "newCustomers": "نوي پیرودونکي",
+  "comparedToLast": "پخوانی میاشتې ته په پرتله",
+  "recentActivity": "وروستي فعالیتونه",
+  "viewAll": "ټول وګورئ",
+  "quickActions": "چټک کړنې",
+  "createTicket": "ټکټ ورکړه",
+  "createInvoice": "نوي بیل",
+  "addCustomer": "نوی پیرودونکی",
+  "addExpense": "لګښت ثبت کړئ",
+  "performanceChart": "د عملکرد چارت",
+  "ticketsIssued": "ورکړل شوي ټکټونه",
+  "sales": "خرڅلاو",
+  "pendingApprovals": "د تصدیق په تمه",
+  "overdueInvoices": "پاتې بیلونه"
+}

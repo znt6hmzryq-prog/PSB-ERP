@@ -1,0 +1,23 @@
+{
+  "title": "مشتریان",
+  "newCustomer": "مشتری جدید",
+  "customerName": "نام مشتری",
+  "phone": "تلفن",
+  "email": "ایمیل",
+  "address": "آدرس",
+  "searchPlaceholder": "جستجو بر اساس نام یا تلفن...",
+  "noCustomers": "مشتری یافت نشد",
+  "customerDetails": "جزئیات مشتری",
+  "totalTickets": "مجموع بلیط‌ها",
+  "totalSpent": "مجموع خرید",
+  "lastPurchase": "آخرین خرید",
+  "editCustomer": "ویرایش مشتری",
+  "deleteCustomer": "حذف مشتری",
+  "confirmDelete": "آیا از حذف این مشتری اطمینان دارید؟",
+  "deleteSuccess": "مشتری با موفقیت حذف شد",
+  "saveSuccess": "مشتری با موفقیت ذخیره شد",
+  "namePlaceholder": "نام مشتری را وارد کنید",
+  "phonePlaceholder": "شماره تلفن را وارد کنید",
+  "emailPlaceholder": "آدرس ایمیل را وارد کنید",
+  "addressPlaceholder": "آدرس را وارد کنید"
+}

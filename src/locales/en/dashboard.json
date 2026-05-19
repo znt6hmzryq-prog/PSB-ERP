@@ -1,0 +1,21 @@
+{
+  "title": "Dashboard",
+  "welcome": "Welcome",
+  "totalTickets": "Total Tickets",
+  "todayRevenue": "Today's Revenue",
+  "monthRevenue": "Monthly Revenue",
+  "newCustomers": "New Customers",
+  "comparedToLast": "compared to last month",
+  "recentActivity": "Recent Activity",
+  "viewAll": "View All",
+  "quickActions": "Quick Actions",
+  "createTicket": "Issue Ticket",
+  "createInvoice": "New Invoice",
+  "addCustomer": "New Customer",
+  "addExpense": "Record Expense",
+  "performanceChart": "Performance Chart",
+  "ticketsIssued": "Tickets Issued",
+  "sales": "Sales",
+  "pendingApprovals": "Pending Approvals",
+  "overdueInvoices": "Overdue Invoices"
+}

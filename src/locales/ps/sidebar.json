@@ -1,0 +1,20 @@
+{
+  "dashboard": "ډشبورډ",
+  "tickets": "ټکټونه",
+  "invoice": "بیلونه",
+  "customers": "پیرودونکي",
+  "payments": "تادیات",
+  "expenses": "لګښتونه",
+  "suppliers": "عرضه‌کوونکي",
+  "reports": "راپورونه",
+  "settings": "ترتیبات",
+  "admin": "د سیسټم مدیریت",
+  "users": "کاروونکي",
+  "branches": "څانګې",
+  "agencyRegistration": "د ادارې ثبت",
+  "logout": "وتل",
+  "agencyRequests": "د ادارې غوښتنې",
+  "submissions": "ثبتونه",
+  "agents": "استازي",
+  "help": "مرسته"
+}

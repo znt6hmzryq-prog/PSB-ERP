@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1778748932928,
+      "tag": "0000_worthless_paladin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1778751036913,
+      "tag": "0001_furry_hitman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1778752789678,
+      "tag": "0002_colossal_terror",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1778839467041,
+      "tag": "0003_lonely_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1778931256653,
+      "tag": "0004_same_bloodstorm",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1778987672933,
+      "tag": "0005_wide_bloodaxe",
+      "breakpoints": true
+    }
+  ]
+}
